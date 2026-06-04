@@ -16,6 +16,7 @@ Each skill is a plug-in for Claude that teaches it *how to think* about your stu
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [`stem-note`](./skills/) | Upload a lecture PDF/PPT → get structured study notes | ✅ v1.0 |
+| [`stem-homework`](./skills/) | Practice Helper → Higher-Quality Exams/Assignments | ✅ v1.0 |
 
 More coming — see [Roadmap](#roadmap).
 
